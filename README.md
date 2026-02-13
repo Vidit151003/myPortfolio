@@ -40,7 +40,7 @@ npm run dev
 The application will be available at `http://localhost:8080`
 
 ## 🛠️ Available Scripts
-
+interactive-portfolio-pro-mai
 - **`npm run dev`** - Start development server with hot reload
 - **`npm run build`** - Build for production
 - **`npm run build:dev`** - Build in development mode
